@@ -3,7 +3,7 @@
 This repository contains all the Competitive programming questions and Interview questions. The main aim of this repository is to help students who are preparing for the interview. This contains questions from popular coding platforms including Hackerank, Codechef, LeetCode, Codeforces, GeeksforGeeks, and many more.
 
 If you're practicing on the coding platforms mentioned above, also if you want to contribute those then you can add the questions in this repository.
-
+Good
  <p align="center">
     <a href="https://github.com/Ayush7614"><img src="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/blob/main/images/manufacturetocat.png" width=400px, height=400px 
  </a> 
